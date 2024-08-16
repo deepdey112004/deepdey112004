@@ -1,5 +1,5 @@
 
-![web developer](https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-1/346997808_6041194476000968_7572545231145424382_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=S_UZS1B5pzoQ7kNvgEWeNaA&_nc_ht=scontent.fccu3-1.fna&oh=00_AfBFmTl4tUrXxSHWktimEarVGd9G5KlqAiDTp-PbQNgEbw&oe=663D0244)
+![software developer](https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-1/346997808_6041194476000968_7572545231145424382_n.jpg?stp=dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_aid=0&_nc_ohc=S_UZS1B5pzoQ7kNvgEWeNaA&_nc_ht=scontent.fccu3-1.fna&oh=00_AfBFmTl4tUrXxSHWktimEarVGd9G5KlqAiDTp-PbQNgEbw&oe=663D0244)
 
 ### Hi there 👋, i am Deep Dey
 #### web developer
