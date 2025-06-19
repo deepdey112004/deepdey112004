@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep Dey</h1>
 <h3 align="center">Coding,  🚀 </h3>
- 📫 How to reach me **Deepdey112004@gmail.com**
+ 📫 How to reach me ## Deepdey112004@gmail.com ##
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
