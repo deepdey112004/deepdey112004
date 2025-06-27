@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm deepdey112004</h1>
-<h3 align="center">"BCA Student | Learning One Line of Code at a Time" "Aspiring Software Developer | BCA Undergrad | Passionate Coder" "BCA Student | Exploring Java, Web Dev & DSA 🚀" "Future Developer in the Making 👨‍💻 | BCA 3rd Year Student" "Learning. Building. Growing. — BCA Student on a Mission" "From BCA Classroom to Code Playground 💻✨" "Open-source learner | BCA student | Dreaming Big" "Coding My Way Through BCA 📘🧠💡"</h3>
+<h3 align="center">"BCA Student | Learning One Line of Code at a Time" "Aspiring Software Developer | BCA Undergrad | Passionate Coder" "BCA Student | Exploring Java, Web Dev & DSA 🚀" "Future Developer in the Making 👨‍💻 | BCA 3rd Year Student" "Learning. Building. Growing. — BCA Student on a Mission" "From BCA Classroom to Code Playground 💻✨" "Open-source learner | BCA student | Dreaming Big" "Coding My Way Through BCA 📘🧠💡"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepdey112004&label=Profile%20views&color=0e75b6&style=flat" alt="deepdey112004" /> </p>
 
